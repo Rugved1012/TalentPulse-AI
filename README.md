@@ -44,3 +44,6 @@ Open [http://127.0.0.1:5173](http://127.0.0.1:5173) in your browser.
 ```bash
 python backend/engine.py --demo
 ```
+
+### 3. Open link 
+    https://talentfinder-ai.netlify.app/
